@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-permalink: /categories/
+title: articles
+permalink: /articles/
 ---
 
 Some information about you!
