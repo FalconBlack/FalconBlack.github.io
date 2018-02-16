@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-permalink: /categories/
+title: Topics
+permalink: /topics/
 ---
 
 [Articles](https://falconblack.github.io/articles/)
@@ -12,6 +12,6 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Site Problem? 
+####Contact
+[E-mail](mailto:falcnblack@gmail.com)
