@@ -1,6 +1,6 @@
 ---
 layout: test
-title: "How Does Blockchain Work?"
+title: "Test"
 description: Testing
 image: 'http://res.cloudinary.com/falconblack/image/upload/v1518596573/arturo-castaneyra-397129j.jpg'
 category: 'Article'
