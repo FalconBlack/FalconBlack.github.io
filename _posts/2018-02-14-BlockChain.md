@@ -1,22 +1,26 @@
 ---
 layout: post
-title: "How Does Blockchain Work?"
+title: How Does Blockchain Work?
 description: Testing
-image: 'http://res.cloudinary.com/falconblack/image/upload/v1518596573/arturo-castaneyra-397129j.jpg'
-category: 'Article'
+image: >-
+  http://res.cloudinary.com/falconblack/image/upload/v1518596573/arturo-castaneyra-397129j.jpg
+category: Article
 tags:
-- article
-- blockchain
--
+  - article
+  - blockchain
+  - null
 twitter_text: How Does Blockchain Work?
 introduction: Blockchain has become quite the buzz word lately.
+published: true
 ---
-
+-----
 What exactly is it?
 
 > A new type of roster system.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+
+-----
 
 ## Inline HTML elements
 
